@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: conversao-distancia
-        image: americojar2014/conversao-distancia:v1
+        image: americojar2014/conversao-distancia:v2
         ports:
           - containerPort: 5000
 ---
